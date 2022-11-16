@@ -1,0 +1,18 @@
+--create table cutomerss(
+--city varchar(10),
+--country varchar(10),
+--postalcode decimal(10),
+--customerid decimal(5)
+--)
+--select * from cutomerss
+--insert into cutomerss values('pune','india',121110,23)
+--insert into cutomerss values('latur','india',121120,2)
+--insert into cutomerss values('rajura','india',121130,22)
+--insert into cutomerss values('chandrapur','india',121140,21)
+--insert into cutomerss values('mumbai','india',121160,24)
+--insert into cutomerss values('nagpur','india',121150,25)
+--insert into cutomerss values('sindhewahi','india',121170,26)
+--insert into cutomerss values('bhandara','india',121180,27)
+--insert into cutomerss values('shirdi','india',121190,28)
+--insert into cutomerss values('sheogaon','india',121100,29)
+--delete from cutomerss where customerid=1
